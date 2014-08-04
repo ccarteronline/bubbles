@@ -1,4 +1,4 @@
 bubbles
 =======
 
-Make some bubbles with Action Script bubble class
+Make some bubbles with Action Script and HTML 5
